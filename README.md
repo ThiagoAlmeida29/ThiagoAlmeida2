@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/stars/ThiagoAlmeida29?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-<h1>Bem-vindo ao meu github!</h1>
+<h1>Welcome to my GitHub!</h1>
 
 - 🔭 Hi there, I'm Thiago and I'm just starting out in the world of coding.
 - 🌱 Learning Javascript, HTML, CSS and Java.
