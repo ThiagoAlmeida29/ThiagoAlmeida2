@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://wakatime.com/badge/user/65d2f429-0fff-4030-bb0c-babf96b02db1.svg" alt="waka"> • 
-  <img src="https://komarev.com/ghpvc/?username=ThiagoAlmeida29&color=blue" alt="ThiagoAlmeida29"> •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ThiagoAlmeida29?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/ThiagoAlmeida29?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img src="https://komarev.com/ghpvc/?username=ThiagoAlmeidaDev&color=blue" alt="ThiagoAlmeidaDev"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ThiagoAlmeidaDev?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/ThiagoAlmeidaDev?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
 <h1>Welcome to my GitHub!</h1>
@@ -12,8 +12,8 @@
 
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoAlmeida29&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAlmeida29&layout=compact&langs_count=7&theme=cobalt"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoAlmeidaDev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAlmeidaDev&layout=compact&langs_count=7&theme=cobalt"/> -->
 </div>
 
 
